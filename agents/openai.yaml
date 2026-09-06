@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manual Record & Replay Madoglio"
+  short_description: "Transforme demonstrações em Skills reutilizáveis"
+  default_prompt: "Use $manual-record-replay-madoglio para aprender esta rotina demonstrada e criar uma Skill reutilizável."
